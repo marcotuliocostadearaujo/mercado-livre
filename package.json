@@ -1,0 +1,10 @@
+{
+    "name": "mercado-livre",
+    "version": "1.0.0",
+    "description": "Desafio Frontend Mercado Livre",
+    "dependencies": {
+        "express": "^4.15.3",
+        "path": "^0.12.7",
+        "body-parser": "^1.17.2"
+    }
+}
